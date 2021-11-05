@@ -1,0 +1,16 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+ .headerlink{
+    color: #1aa6ab !important;
+}
+.headerlink:hover{
+    color:#88e6e7 !important;
+}
+.custom{
+   
+}
+.propic{
+    border-radius: 50%;
+}

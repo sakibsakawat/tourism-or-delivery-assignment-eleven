@@ -1,0 +1,12 @@
+.divAddService{
+    height: 500px;
+}
+.divAddService form{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.divAddService form input, textarea{
+    width: 50%;
+}
